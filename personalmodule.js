@@ -1,7 +1,6 @@
 //Завдання 2
 
-
- /*function getCurrentDateTime() {
+function getCurrentDateTime() {
    const currentDateTime = new Date();
    const date = currentDateTime.toLocaleDateString();
    const time = currentDateTime.toLocaleTimeString();
@@ -30,5 +29,5 @@
  }
  
  
- module.exports = { greetUser, getCurrentDateTime };*/
+ module.exports = { greetUser, getCurrentDateTime };
  

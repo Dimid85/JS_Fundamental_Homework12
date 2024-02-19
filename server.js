@@ -39,7 +39,7 @@ server.listen(5000, 'localhost', () => {
 
 //Завдання 2
 
-/*const http = require('http');
+const http = require('http');
 const personalModule = require('./personalmodule');
 
 const server = http.createServer((req, res) => {
@@ -69,4 +69,4 @@ const server = http.createServer((req, res) => {
 
 server.listen(5000, 'localhost', () => {
   console.log('Server is running on http://localhost:5000');
-});*/
+});
