@@ -19,7 +19,7 @@ const server = http.createServer((req, res) => {
       <title>System Information</title>
     </head>
     <body>
-      <h1>System Information</h1>
+      <h1>System Information Done!!!</h1>
       <p>Username: ${username}</p>
       <p>Operating System: ${osType}</p>
       <p>Uptime: ${uptimeInMinutes} minutes</p>
